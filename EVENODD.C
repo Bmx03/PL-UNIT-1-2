@@ -1,5 +1,5 @@
 
-// #Experiment 6: C program to check whether a given number is even or odd 
+// #Experiment 3: C program to check whether a given number is even or odd 
 
 #include <stdio.h>
   int main() {
